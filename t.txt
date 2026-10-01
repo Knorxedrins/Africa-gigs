@@ -1,0 +1,22 @@
+This takes exactly 3 weeks to launch.
+
+I will build the frontend screens first so you can test a live link on your phone by the end of Week 1. Once you approve, I'll wire up the backend engine.
+
+If this setup works, let me know and I’ll send over the budget breakdown
+
+
+
+This takes exactly 3 weeks to launch.
+
+I will build the frontend screens first so you can test a live link on your phone by the end of Week 1. Once you approve, I'll wire up the backend engine.
+
+If this setup works, let me know and I’ll send over the budget breakdown
+
+
+
+Here is the leanest way to build this MVP to save you time and money. 
+ We skip complex dashboards and build a fast mobile-web app with just 3 essentials:
+ 
+ Worker Form: A simple page for workers to register their skills. 
+ 
+ Search Directory: A clean homepage for clients to filter workers.                                                                                                      Instant Hiring: A direct 'Call / WhatsApp' button to connect them instantly.
